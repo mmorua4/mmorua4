@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>
+
 
 ###
 
